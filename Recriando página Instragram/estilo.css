@@ -1,0 +1,66 @@
+body{
+    width: 940px;
+    margin: 100px auto;
+    background-color: #fafafa;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+.login {
+    display: inline-block;  
+    vertical-align: top;
+    margin: 120px 0;
+    margin-left: 30px;  
+    width: 350px;
+    padding: 1em;
+    border: 1px solid #dbdbdb;
+    border-radius:1px;
+}
+.login-main{
+    text-align: center;
+}
+.logo-ig img{
+    width: 200px;
+}
+.foto-perfil-ig{
+    margin: 10px 0 30px 0;
+}
+.foto-perfil-ig img{
+    border-radius: 50%;
+    overflow: hidden;
+}
+.button-login{
+    font-weight: bold;
+    font-size: 16px;
+    padding: 7px 30px;
+    margin-bottom: 20px;
+    background-color:#0095f6;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+.link-change {
+    text-decoration: none;
+    font-weight: bold;
+    color:#0095f6;
+}
+footer {
+    margin: 80px 0 0 0;
+}
+.footer-links {
+    text-align: center;
+    font-size: 13px;
+    color:#8e8e8e;
+    word-spacing: 10px;
+    line-height: 1.5rem;
+}
+.footer-links a {
+    text-decoration: none;
+    color:#8e8e8e;
+}
+.words {
+    word-spacing: 1px;
+}
+.select-lang{
+    border: none;
+    color:#8e8e8e;
+}
