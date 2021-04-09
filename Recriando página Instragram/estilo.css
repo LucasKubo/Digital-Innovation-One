@@ -5,18 +5,25 @@ body{
     font-size: 15px;
     font-family: 'Roboto', sans-serif;
 }
+main .content{
+    display: flex;
+    align-items: center;
+    
+}
 .login {
-    display: inline-block;  
-    vertical-align: top;
-    margin: 120px 0;
-    margin-left: 30px;  
+    display: inline-block;   
     width: 350px;
+    height: 400px;
     padding: 1em;
+    margin-left: 1%;
     border: 1px solid #dbdbdb;
     border-radius:1px;
 }
 .login-main{
     text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
 }
 .logo-ig img{
     width: 200px;
